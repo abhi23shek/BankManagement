@@ -20,21 +20,28 @@ Password Protection: The system is password-protected to ensure security.
 
 ## How to Use
 Run the program and enter the correct password when prompted.
+
 Choose from the main menu options to perform different banking operations.
+
 Follow the on-screen instructions for each operation.
 
 ## Compilation and Execution
 This program can be compiled and executed using a C++ compiler.
+
 An example command for compilation using g++:
 
 ## Note
 The initial password for accessing the system is "abhishek."
+
 The system stores account information in a file named "account.dat."
 
 ## Author
 Author: Abhishek Kumar
+
 Class: 12th D
+
 School: Delhi Public School, Dwarka
 
 ## Disclaimer
-This system is a simple console-based implementation for educational purposes and may not be suitable for production use. It is advisable to enhance security features and error handling for a real-world banking system.
+This system is a simple console-based implementation for educational purposes and may not be suitable for production use. It is advisable to enhance security features and error handling for a real-world banking 
+system.
