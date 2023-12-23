@@ -1,9 +1,9 @@
 # Bank Management System
 
-##Introduction
+## Introduction
 This is a simple Bank Management System implemented in C++ that allows users to perform various banking operations such as creating a new account, depositing and withdrawing money, checking the balance, modifying account details, and more. The system is console-based and provides a text-based interface for users.
 
-##Features
+## Features
 New Account Creation: Users can create new accounts by providing necessary details such as account number, account holder name, account type (Savings or Current), and initial deposit.
 Deposit and Withdrawal: Users can deposit or withdraw money from their accounts. Additionally, the system supports using a gift card for withdrawals.
 Balance Enquiry: Users can check the balance of their accounts.
