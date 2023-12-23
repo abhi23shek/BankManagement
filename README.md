@@ -11,25 +11,24 @@ Account Modification: Account holders can modify their account details, includin
 Account Closure: Users can close their accounts, removing them from the system.
 All Account Holder List: Provides a list of all account holders along with their account details.
 Password Protection: The system is password-protected to ensure security.
-How to Use
+
+## How to Use
 Run the program and enter the correct password when prompted.
 Choose from the main menu options to perform different banking operations.
 Follow the on-screen instructions for each operation.
-Compilation and Execution
+
+## Compilation and Execution
 This program can be compiled and executed using a C++ compiler.
 An example command for compilation using g++:
-Copy code
-g++ bank_management_system.cpp -o bank_management_system
-To run the compiled program:
-bash
-Copy code
-./bank_management_system
-Note
+
+## Note
 The initial password for accessing the system is "abhishek."
 The system stores account information in a file named "account.dat."
-Author
+
+## Author
 Author: Abhishek Kumar
 Class: 12th D
 School: Delhi Public School, Dwarka
-Disclaimer
+
+## Disclaimer
 This system is a simple console-based implementation for educational purposes and may not be suitable for production use. It is advisable to enhance security features and error handling for a real-world banking system.
